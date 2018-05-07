@@ -1,0 +1,4 @@
+XamAndroidAlertReload.MainActivity, XamAndroidAlertReload;md566c3c2c8a5010c0dae6232f93109ec6b.MainActivity
+XamAndroidAlertReload.MainActivity, XamAndroidAlertReload, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md566c3c2c8a5010c0dae6232f93109ec6b.MainActivity
+XamAndroidAlertReload.MainActivity;md566c3c2c8a5010c0dae6232f93109ec6b.MainActivity
+xamandroidalertreload.MainActivity;md566c3c2c8a5010c0dae6232f93109ec6b.MainActivity
